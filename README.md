@@ -9,7 +9,7 @@ Very powerful text parser with color highlighting.
 The main goal of this module is to process the plain text line by line,
 highlight and transform it, and perform various callback events.
 If you need a multiline solution please take a look at PowerShell
-built in `Abstract Syntax Tree` parser.
+built-in `Abstract Syntax Tree` parser.
 
 For an advanced example take a look at:
 [Debug](https://github.com/n8tb1t/Debug)
